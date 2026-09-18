@@ -1,0 +1,10 @@
+{
+  "description": "This app helps students manage shared refrigerator spaces in dorms by tracking food items, expiration dates, and facilitating group purchases.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
